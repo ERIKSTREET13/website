@@ -1,0 +1,30 @@
+#footer{
+    background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+    
+}
+#footer div{
+    color: white;
+}
+
+#footer a{
+    color: white;
+}
+
+.header {
+    color: #FFFFFF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #FFFFFF;
+}
+
+.body{
+	background-image: url("../img/backgroundeventos.jpg");
+	border: 2px solid black;
+  	padding: 25px;
+  	background-repeat: no-repeat;
+  	background-size: 100% 100%;
+}
